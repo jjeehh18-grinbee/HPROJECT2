@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #0d030c - rgb(13, 3, 12) - hsl(306, 63%, 3%)
+    Background: #fdf7fc - rgb(253, 247, 252) - hsl(310, 60%, 98%)
+    Primary: #ce47bc - rgb(206, 71, 188) - hsl(308, 58%, 54%)
+    Secondary: #dfda88 - rgb(223, 218, 136) - hsl(57, 58%, 70%)
+    Accent: #8cd561 - rgb(140, 213, 97) - hsl(98, 58%, 61%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=0d030c-fdf7fc-ce47bc-dfda88-8cd561&fonts=Inter-Inter
+
+Thanks for using RealtimeColors.com!

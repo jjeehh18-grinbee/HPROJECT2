@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #253137 - rgb(37, 49, 55) - hsl(200, 20%, 18%)
+    Background: #f8f7f2 - rgb(248, 247, 242) - hsl(50, 30%, 96%)
+    Primary: #f28c26 - rgb(242, 140, 38) - hsl(30, 89%, 55%)
+    Secondary: #2f7f33 - rgb(47, 127, 51) - hsl(123, 46%, 34%)
+    Accent: #1689ac - rgb(22, 137, 172) - hsl(194, 77%, 38%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=253137-f8f7f2-f28c26-2f7f33-1689ac&fonts=Inter-Inter
+
+Thanks for using RealtimeColors.com!
